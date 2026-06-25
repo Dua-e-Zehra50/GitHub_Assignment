@@ -7,7 +7,7 @@ Dua-e-Zehra
 SP26-BSAI-0018
 
 ## Program/Semester
-BS AI
+Bachelor of Science in Artificial Intelligence
 Semester 1
 
 ## Career Goals
