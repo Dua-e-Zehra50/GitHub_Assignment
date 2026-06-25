@@ -11,4 +11,4 @@ BS AI
 Semester 1
 
 ## Career Goals
-My career goal is to become an Artificial Intelligence Engineer and develop intelligent systems that solve real-world problems using AI and Machine Learning technologies.
+I want to become an AI Engineer and build smart applications using Artificial Intelligence and Machine Learning.
